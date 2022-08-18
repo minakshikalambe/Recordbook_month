@@ -9,7 +9,7 @@ mongodburl: mongodb+srv://minakshikalambe:minakshi1996@cluster0.jf02a.mongodb.ne
 
 Learnings:
 
-mongodb connection, Crud, nodejs
+mongodb connection, nodejs
 
 Challenges faced:
 
